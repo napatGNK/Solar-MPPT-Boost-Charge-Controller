@@ -35,8 +35,8 @@
 
 | ไฟล์ | คำอธิบาย |
 |---|---|
-| `solar_mppt_boost_rev33.ino` | เฟิร์มแวร์หลัก MPPT + ควบคุมแรงดันคงที่ |
-| `solar_mppt_bench_test_rev33.ino` | สเก็ตช์ทดสอบ สั่ง duty ด้วยมือผ่าน Serial |
+| `solar_mppt_boost.ino` | เฟิร์มแวร์หลัก MPPT + ควบคุมแรงดันคงที่ |
+| `solar_mppt_bench_test.ino` | สเก็ตช์ทดสอบ สั่ง duty ด้วยมือผ่าน Serial |
 | `docs/design_rev31.md` | เอกสารออกแบบ · ตารางขาต่อขา · การคำนวณกำลังสูญเสีย |
 | `docs/test_plan_rev33.md` | แผนทดสอบ 8 ขั้นและข้อกำหนดความปลอดภัย |
 | `docs/wiring_map.svg` | ผังต่อสาย |
